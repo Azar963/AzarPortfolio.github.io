@@ -1810,7 +1810,7 @@ input, select, textarea {
 		.author img {
 			border-radius: 100%;
 			display: block;
-			width: 8em;
+			width: 10em;
 		}
 
 		.author:hover .name {
@@ -2043,9 +2043,9 @@ input, select, textarea {
 		-webkit-appearance: none;
 		-ms-appearance: none;
 		appearance: none;
-		background: rgba(160, 160, 160, 0.075);
+		background: #5648C2;
 		border: none;
-		border: solid 1px rgba(160, 160, 160, 0.3);
+		border: solid 1px #5648C2;
 		border-radius: 0;
 		color: inherit;
 		display: block;
